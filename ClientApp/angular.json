@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "Mixr.PartyWebApp"
+  "defaultProject": "Mixr.PartyWebApp",
+  "cli": {
+    "analytics": false
+  }
 }
